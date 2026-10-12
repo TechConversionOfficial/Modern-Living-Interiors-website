@@ -1,11 +1,20 @@
-
 # Modern Living Interiors Website: Showcasing Thoughtful Interior Design and Turnkey Spaces Through a Premium Digital Experience
 
 **Modern Living Interiors is an interior design studio specialising in stylish, functional residential and commercial spaces. Featured in the [Tech Conversion](https://techconversion.tech/) website portfolio, the project presents the studio's approach to space planning, 3D design, material selection and turnkey interior execution. The digital experience is positioned to help homeowners, property developers and commercial clients explore design capabilities, understand the project process and take the next step towards an interior design consultation.**
 
-![Modern Living Interiors Premium Website Homepage](PASTE_MODERN_LIVING_HOMEPAGE_IMAGE_URL_HERE)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/modern-living-interiors-website-mockup-2.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/modern-living-interiors-website-mockup-2.webp" alt="Modern Living Interiors premium website mockup by Tech Conversion" width="100%" />
+  </a>
+</p>
 
-*Modern Living Interiors homepage presentation. Replace this placeholder with an authentic website screenshot or original project mockup.*
+<p align="center">
+  <a href="https://modernlivinginterior.com/"><strong>Website reference</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/api/media/portfolio/modern-living-interiors-website-home-page.webp"><strong>Full-page website screenshot</strong></a>
+</p>
 
 | Project Detail | Information |
 |---|---|
@@ -18,7 +27,7 @@
 | **Core Services** | Residential interiors, commercial interiors, space planning, 3D design and turnkey execution |
 | **Target Audience** | Homeowners, property developers, businesses and commercial property owners |
 | **Website Objectives** | Project presentation, service discovery, brand credibility and enquiries |
-| **GitHub Repository** | Repository URL to be added after confirmation or creation |
+| **GitHub Repository** | [TechConversionOfficial/Modern-Living-Interiors-website](https://github.com/TechConversionOfficial/Modern-Living-Interiors-website) |
 | **Production Technology** | Not independently verified |
 
 ## About Modern Living Interiors
@@ -125,10 +134,6 @@ Living rooms often need balanced seating, lighting and storage. Bedrooms require
 
 A residential design presentation helps visitors understand how these considerations can be combined with materials, colours, furniture and finishes.
 
-![Modern Living Interiors Residential Interior Design Showcase](PASTE_MODERN_LIVING_RESIDENTIAL_INTERIORS_IMAGE_URL_HERE)
-
-*Residential interior design presentation featuring living rooms, bedrooms, kitchens or completed home interiors. Insert an authentic project image here.*
-
 ### 3. Communicating Space Planning and 3D Design Capabilities
 
 Space planning and 3D design are specifically identified in the studio's portfolio description.
@@ -151,10 +156,6 @@ An effective website should explain the distinction between an initial concept, 
 
 This helps visitors develop realistic expectations about the design process.
 
-![Modern Living Interiors 3D Design and Space Planning](PASTE_MODERN_LIVING_3D_DESIGN_IMAGE_URL_HERE)
-
-*Interior space-planning and 3D visualisation presentation. Add an original layout, design rendering or approved project visual.*
-
 ### 4. Highlighting Commercial Interior Design
 
 Modern Living Interiors also presents commercial spaces as part of its service offering.
@@ -166,10 +167,6 @@ An office may need workstations, meeting areas and efficient circulation. A reta
 Commercial interiors therefore require a balance between appearance, functionality and operational use.
 
 A dedicated website presentation for commercial work helps business owners recognise the studio's broader design scope.
-
-![Modern Living Interiors Commercial and Office Design](PASTE_MODERN_LIVING_COMMERCIAL_INTERIORS_IMAGE_URL_HERE)
-
-*Commercial interior design showcase featuring office or customer-facing spaces. Use a genuine client-approved image.*
 
 ### 5. Explaining Turnkey Interior Execution
 
@@ -238,6 +235,41 @@ A specific live enquiry form, CRM integration or automated lead-management workf
 
 ## Project Images and Visual Direction
 
+Interior design websites depend heavily on visual storytelling. For this project, the README now uses the official Tech Conversion portfolio mockup and a full-length homepage screenshot rather than speculative placeholder imagery.
+
+### Official Website Mockup
+
+The following Tech Conversion portfolio mockup presents Modern Living Interiors as a premium interior-design website project.
+
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/modern-living-interiors-website-mockup-2.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/modern-living-interiors-website-mockup-2.webp" alt="Modern Living Interiors responsive website portfolio mockup" width="100%" />
+  </a>
+</p>
+
+*Click the image to open the full-resolution mockup.*
+
+### Full-Length Website Screenshot
+
+The following image is the complete homepage capture supplied through Tech Conversion's project media.
+
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/modern-living-interiors-website-home-page.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/modern-living-interiors-website-home-page.webp" alt="Modern Living Interiors complete interior design website homepage screenshot" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Click the screenshot to open the full-resolution image.</strong>
+</p>
+
+### Image Provenance
+
+The website mockup and full-page screenshot above are embedded from Tech Conversion's public project-media endpoints. They replace the placeholder image references in the earlier README and provide a concrete visual record of the project.
+
+These assets are **not evidence of measured increases in enquiries, consultation bookings, search rankings, page speed, conversions or revenue**. Because they are externally hosted, GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a self-contained repository, client-approved copies can later be stored in an `images/` directory and referenced with relative paths.
+
+
 Interior design websites depend heavily on visual storytelling.
 
 The design presentation should allow interiors to remain the main focus while supporting them with readable typography, balanced spacing and clear navigation.
@@ -270,10 +302,6 @@ Space-planning illustrations, 3D renderings and approved project documentation m
 
 These visual formats should be labelled accurately so prospective clients can distinguish completed projects from conceptual work.
 
-![Modern Living Interiors Turnkey Design and Project Presentation](PASTE_MODERN_LIVING_TURNKEY_PROJECT_IMAGE_URL_HERE)
-
-*Interior project presentation showing design planning, material selection or completed execution. Replace with an authentic visual relevant to the project.*
-
 ### Responsive Website Presentation
 
 Potential clients may discover an interior design studio while browsing on a mobile phone.
@@ -282,11 +310,6 @@ A well-structured responsive experience should allow users to examine project ph
 
 Important considerations include image proportions, accessible navigation, readable text and contact controls.
 
-![Modern Living Interiors Desktop and Mobile Website Presentation](PASTE_MODERN_LIVING_RESPONSIVE_WEBSITE_IMAGE_URL_HERE)
-
-*Responsive website showcase featuring desktop and mobile layouts. Insert an original screenshot or approved website mockup.*
-
-**Image documentation:** The six Markdown image placeholders in this README are intended for genuine website screenshots, approved project renders or original portfolio visuals. No images are bundled with this document, and placeholders must be replaced with real URLs or repository paths before publication.
 
 ## Key Website Journeys
 
@@ -335,21 +358,11 @@ No independent accessibility report, Core Web Vitals assessment, structured-data
 
 ## Before and After
 
-A verified pair of screenshots showing an earlier Modern Living Interiors website and a subsequent production version was not available in the reviewed project materials.
+A full-page screenshot of the delivered Modern Living Interiors website is available and included above. However, **no authenticated BEFORE screenshot or dated old-versus-new comparison was supplied for this project**, so this README does not manufacture a historical redesign comparison.
 
-The project is therefore presented as a **website portfolio case study**, not an independently documented before-and-after redesign.
+Other documented transformations can be explored at [Tech Conversion's before-and-after gallery](https://techconversion.tech/before-after).
 
-If original screenshots become available, a comparison can examine:
-
-- Homepage presentation
-- Navigation and service organisation
-- Residential and commercial project galleries
-- Mobile responsiveness
-- Consultation and enquiry routes
-- Project photography presentation
-- Accessibility and readability
-
-Any improvement claims should be supported by dated screenshots, project records or relevant analytics.
+Any future improvement claims should be supported by dated screenshots, project records or relevant analytics.
 
 ## Results
 
@@ -402,4 +415,4 @@ Its approach focuses on helping organisations present their products and service
 
 **Project Documentation Disclaimer:** This repository is a public-facing portfolio and website case-study record. It does not distribute Modern Living Interiors' private website source code, administrator credentials, customer enquiries, project contracts, commercial quotations, client floor plans or hosting infrastructure. Brand names, original interior photographs, project renderings and intellectual property remain with their respective rights holders.
 
-**Verification note:** Modern Living Interiors is confirmed in Tech Conversion's public portfolio. The associated website domain could not be independently accessed during preparation of this README, so page-level implementation details, technical integrations and measurable results have not been presented as verified facts.
+**Verification note:** Modern Living Interiors is confirmed in Tech Conversion's public portfolio. The supplied project mockup and full-page screenshot provide visual documentation of the website, but page-level implementation details, technical integrations and measurable business results have not been independently verified.
